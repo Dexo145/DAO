@@ -16,7 +16,7 @@
 ## Setting Up
 ### 1. Clone/Download the Repository
 
-### 2. Customize your smart contracts zith Open Zeppelin Wizard
+### 2. Customize your smart contracts with Open Zeppelin Wizard
 
 ### 3. Install Dependencies:
 ` npm install`
