@@ -18,13 +18,13 @@
 
 ### 2. Customize your smart contracts with Open Zeppelin Wizard
 
-### 3. Install Dependencies:
-` npm install`
-
 ### 3. Start Ganache
 
-### 4. Migrate Smart Contracts
+### 4. Install Dependencies:
+` npm install`
+
+### 5. Migrate Smart Contracts
 ` truffle migrate --reset`
 
-### 5. Run 1st script
+### 6. Run 1st script
 ` truffle exec .\scripts\1_create_proposal.js`
