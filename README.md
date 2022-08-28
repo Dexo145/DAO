@@ -1,4 +1,4 @@
-# Governance and DAO's
+# DAO dev
 
 ## Technology Stack & Tools
 
